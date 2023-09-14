@@ -1,0 +1,27 @@
+body {
+    color: white;
+    background-color:black;
+}
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+a {
+    color: whitesmoke;
+    text-decoration: none;
+}
+.textos {
+    color: rgb(185, 236, 185);
+}
+footer img{
+    width: 30px;
+    height: 30px;
+}
+nav a:hover {
+
+    color:aqua
+
+}
